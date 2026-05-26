@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: locadora
+  output:
+    ansi:
+      enabled: ALWAYS
+logging:
+  pattern:
+    console: '%clr(%d{dd-MM-yyyy HH:mm:ss}){faint} %clr(%5p) %clr([%t]){faint} %clr(%-40.40logger){cyan} %clr(:){yellow} %m%n'
+  file:
+    name: locadora.log

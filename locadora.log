@@ -1,0 +1,6 @@
+2026-05-26T17:31:07.347-03:00  INFO 11380 --- [locadora] [main] io.savioromario10.locadora.Application   : Starting Application using Java 21.0.10 with PID 11380 (C:\Estudos\Spring\Aula 4\locadora\target\classes started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
+2026-05-26T17:31:07.360-03:00  INFO 11380 --- [locadora] [main] io.savioromario10.locadora.Application   : No active profile set, falling back to 1 default profile: "default"
+2026-05-26T17:31:09.796-03:00  INFO 11380 --- [locadora] [main] io.savioromario10.locadora.Application   : Started Application in 4.911 seconds (process running for 7.743)
+2026-05-26T17:31:51.382-03:00  INFO 32388 --- [locadora] [main] io.savioromario10.locadora.Application   : Starting Application using Java 21.0.10 with PID 32388 (C:\Estudos\Spring\Aula 4\locadora\target\classes started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
+2026-05-26T17:31:51.400-03:00  INFO 32388 --- [locadora] [main] io.savioromario10.locadora.Application   : No active profile set, falling back to 1 default profile: "default"
+2026-05-26T17:31:53.935-03:00  INFO 32388 --- [locadora] [main] io.savioromario10.locadora.Application   : Started Application in 4.842 seconds (process running for 6.491)
