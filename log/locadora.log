@@ -1432,3 +1432,45 @@ INSERT INTO carro (id, modelo, valor_diaria, ano) VALUES (1, 'SUV', 100.0, 2020)
 2026-05-28T14:17:25.911-03:00  INFO 7488 --- [locadora] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
 2026-05-28T14:17:27.696-03:00  INFO 7488 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Started CarroRepositoryTest in 15.764 seconds (process running for 19.884)
 2026-05-28T14:17:30.558-03:00  INFO 7488 --- [locadora] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-28T14:25:46.816-03:00  INFO 27020 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Starting CarroRepositoryTest using Java 21.0.10 with PID 27020 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
+2026-05-28T14:25:46.832-03:00  INFO 27020 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : The following 1 profile is active: "test"
+2026-05-28T14:25:50.782-03:00  INFO 27020 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-28T14:25:51.518-03:00  INFO 27020 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 664 ms. Found 1 JPA repository interface.
+2026-05-28T14:25:52.399-03:00  INFO 27020 --- [locadora] [main] beddedDataSourceBeanFactoryPostProcessor : Replacing 'dataSource' DataSource bean with embedded version
+2026-05-28T14:25:54.767-03:00  INFO 27020 --- [locadora] [main] o.s.j.d.e.EmbeddedDatabaseFactory        : Starting embedded database: url='jdbc:h2:mem:fbc75b1f-b100-4e5d-acb3-73ed36b227cd;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-05-28T14:25:58.222-03:00  INFO 27020 --- [locadora] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-28T14:25:59.871-03:00  INFO 27020 --- [locadora] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2026-05-28T14:26:00.534-03:00  INFO 27020 --- [locadora] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-28T14:26:07.738-03:00  INFO 27020 --- [locadora] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-28T14:26:22.712-03:00  INFO 27020 --- [locadora] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-28T14:26:23.653-03:00  INFO 27020 --- [locadora] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-28T14:26:28.518-03:00  INFO 27020 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Started CarroRepositoryTest in 48.625 seconds (process running for 64.716)
+2026-05-28T14:26:43.951-03:00  INFO 27020 --- [locadora] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-28T14:36:19.549-03:00  INFO 27932 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Starting CarroRepositoryTest using Java 21.0.10 with PID 27932 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
+2026-05-28T14:36:19.556-03:00  INFO 27932 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : The following 1 profile is active: "test"
+2026-05-28T14:36:22.153-03:00  INFO 27932 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-28T14:36:22.698-03:00  INFO 27932 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 492 ms. Found 1 JPA repository interface.
+2026-05-28T14:36:23.050-03:00  INFO 27932 --- [locadora] [main] beddedDataSourceBeanFactoryPostProcessor : Replacing 'dataSource' DataSource bean with embedded version
+2026-05-28T14:36:27.253-03:00  INFO 27932 --- [locadora] [main] o.s.j.d.e.EmbeddedDatabaseFactory        : Starting embedded database: url='jdbc:h2:mem:b558ee4a-73a3-488e-8e13-772e3a95d0a1;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-05-28T14:36:30.454-03:00  INFO 27932 --- [locadora] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-28T14:36:31.299-03:00  INFO 27932 --- [locadora] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2026-05-28T14:36:31.633-03:00  INFO 27932 --- [locadora] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-28T14:36:34.321-03:00  INFO 27932 --- [locadora] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-28T14:36:46.532-03:00  INFO 27932 --- [locadora] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-28T14:36:47.021-03:00  INFO 27932 --- [locadora] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-28T14:36:50.172-03:00  INFO 27932 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Started CarroRepositoryTest in 34.119 seconds (process running for 51.253)
+2026-05-28T14:36:58.440-03:00  INFO 27932 --- [locadora] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-05-28T14:45:39.691-03:00  INFO 30560 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Starting CarroRepositoryTest using Java 21.0.10 with PID 30560 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
+2026-05-28T14:45:39.699-03:00  INFO 30560 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : The following 1 profile is active: "test"
+2026-05-28T14:45:45.867-03:00  INFO 30560 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-28T14:45:47.051-03:00  INFO 30560 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 1126 ms. Found 1 JPA repository interface.
+2026-05-28T14:45:47.933-03:00  INFO 30560 --- [locadora] [main] beddedDataSourceBeanFactoryPostProcessor : Replacing 'dataSource' DataSource bean with embedded version
+2026-05-28T14:45:54.582-03:00  INFO 30560 --- [locadora] [main] o.s.j.d.e.EmbeddedDatabaseFactory        : Starting embedded database: url='jdbc:h2:mem:c8063670-4d48-4579-9122-07c369ed7f69;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-05-28T14:46:02.136-03:00  INFO 30560 --- [locadora] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-28T14:46:04.181-03:00  INFO 30560 --- [locadora] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2026-05-28T14:46:05.681-03:00  INFO 30560 --- [locadora] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-28T14:46:13.959-03:00  INFO 30560 --- [locadora] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-28T14:46:38.995-03:00  INFO 30560 --- [locadora] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-28T14:46:39.615-03:00  INFO 30560 --- [locadora] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-28T14:46:46.371-03:00  INFO 30560 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Started CarroRepositoryTest in 75.49 seconds (process running for 95.686)
+2026-05-28T14:47:07.296-03:00  INFO 30560 --- [locadora] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'

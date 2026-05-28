@@ -55,4 +55,10 @@ public class CarroEntity {
   public void setValorDiaria(double valorDiaria) {
     this.valorDiaria = valorDiaria;
   }
+  public int getAno() {
+    return ano;
+  }
+  public void setAno(int ano) {
+    this.ano = ano;
+  }
 }
