@@ -21,15 +21,14 @@ class CarroRepositoryTest {
 
   @Test
   void deveSalvarCarro(){
-    var entity = new CarroEntity("Uno", 100.0);
+    var entity = new CarroEntity("Uno", 100.0, 2015);
     repository.save(entity);
 
     assertNotNull(entity.getId());
   }
 
-  @Test
   @Deprecated
-  @Sql("classpath:java/resources/sql/popular-carros.sql")
+  @Sql("/sql/popular-carros.sql")
   void deveBuscarCarroPorModelo(){
     List<CarroEntity> carros = repository.findByModelo("SUV");
 

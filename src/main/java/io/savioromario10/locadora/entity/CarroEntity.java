@@ -20,12 +20,15 @@ public class CarroEntity {
   private String modelo;
   @Column
   private double valorDiaria;
+  @Column
+  private int ano;
 
   @Deprecated
   public CarroEntity() {}
-  public CarroEntity(String modelo, double valorDiaria) {
+  public CarroEntity(String modelo, double valorDiaria, int ano) {
     this.modelo = modelo;
     this.valorDiaria = valorDiaria;
+    this.ano = ano;
   }
 
   public Long getId() {
