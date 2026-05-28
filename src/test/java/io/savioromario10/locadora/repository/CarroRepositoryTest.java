@@ -27,7 +27,7 @@ class CarroRepositoryTest {
     assertNotNull(entity.getId());
   }
 
-  @Deprecated
+  @Test
   @Sql("/sql/popular-carros.sql")
   void deveBuscarCarroPorModelo(){
     List<CarroEntity> carros = repository.findByModelo("SUV");
