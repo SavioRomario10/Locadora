@@ -1,3 +1,0 @@
-2026-05-27T12:54:00.837-03:00  INFO 31816 --- [locadora] [main] io.savioromario10.locadora.Application   : Starting Application using Java 21.0.10 with PID 31816 (C:\Estudos\Spring\Aula 4\locadora\target\classes started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-27T12:54:00.931-03:00  INFO 31816 --- [locadora] [main] io.savioromario10.locadora.Application   : No active profile set, falling back to 1 default profile: "default"
-2026-05-27T12:54:04.112-03:00  INFO 31816 --- [locadora] [main] io.savioromario10.locadora.Application   : Started Application in 6.053 seconds (process running for 8.451)
