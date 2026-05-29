@@ -121,8 +121,8 @@ class CarroServiceTest {
 
   @Test
   void deveListarTodos(){
-    var carro = new CarroEntity(1, "Sedan", 10.0, 2020);
-    var carro2 = new CarroEntity(1, "Sedan", 10.0, 2020);
+    var carro = new CarroEntity(1L, "Sedan", 10.0, 2020);
+    var carro2 = new CarroEntity(1L, "Sedan", 10.0, 2020);
 
     var lista = List.of(carro, carro2);
 
