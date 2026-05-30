@@ -1,118 +1,22 @@
-2026-05-29T11:19:37.947-03:00  INFO 15208 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 15208 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T11:19:38.317-03:00  INFO 15208 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T11:20:16.567-03:00  INFO 15208 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T11:20:16.570-03:00  INFO 15208 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T11:20:16.576-03:00  INFO 15208 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
-2026-05-29T11:20:17.916-03:00  INFO 15208 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 45.8 seconds (process running for 59.562)
-2026-05-29T11:22:54.089-03:00  INFO 1460 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 1460 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T11:22:54.112-03:00  INFO 1460 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T11:23:23.711-03:00  INFO 1460 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T11:23:23.718-03:00  INFO 1460 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T11:23:23.822-03:00  INFO 1460 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 95 ms
-2026-05-29T11:23:24.270-03:00  INFO 1460 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 34.933 seconds (process running for 49.002)
-2026-05-29T11:23:57.562-03:00  INFO 22760 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 22760 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T11:23:57.568-03:00  INFO 22760 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T11:24:10.183-03:00  INFO 22760 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T11:24:10.185-03:00  INFO 22760 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T11:24:10.191-03:00  INFO 22760 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 6 ms
-2026-05-29T11:24:10.544-03:00  INFO 22760 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 15.586 seconds (process running for 24.155)
-2026-05-29T11:24:45.051-03:00  INFO 22260 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 22260 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T11:24:45.058-03:00  INFO 22260 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T11:25:02.990-03:00  INFO 22260 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T11:25:02.991-03:00  INFO 22260 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T11:25:03.082-03:00  INFO 22260 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 90 ms
-2026-05-29T11:25:03.427-03:00  INFO 22260 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 19.52 seconds (process running for 21.816)
-2026-05-29T11:25:19.228-03:00  INFO 5748 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 5748 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T11:25:19.233-03:00  INFO 5748 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T11:25:27.592-03:00  INFO 5748 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T11:25:27.593-03:00  INFO 5748 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T11:25:27.597-03:00  INFO 5748 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
-2026-05-29T11:25:27.814-03:00  INFO 5748 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 10.686 seconds (process running for 16.854)
-2026-05-29T12:20:48.615-03:00  INFO 5360 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 5360 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T12:20:48.621-03:00  INFO 5360 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T12:21:07.910-03:00  INFO 5360 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T12:21:07.912-03:00  INFO 5360 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T12:21:07.917-03:00  INFO 5360 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 5 ms
-2026-05-29T12:21:09.015-03:00  INFO 5360 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 22.402 seconds (process running for 29.923)
-2026-05-29T12:23:10.286-03:00  INFO 11596 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 11596 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T12:23:10.333-03:00  INFO 11596 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T12:23:42.100-03:00  INFO 11596 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T12:23:42.101-03:00  INFO 11596 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T12:23:42.108-03:00  INFO 11596 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 7 ms
-2026-05-29T12:23:42.866-03:00  INFO 11596 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 40.481 seconds (process running for 54.651)
-2026-05-29T12:24:21.513-03:00  INFO 23412 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 23412 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T12:24:21.517-03:00  INFO 23412 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T12:24:34.237-03:00  INFO 23412 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T12:24:34.244-03:00  INFO 23412 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T12:24:34.249-03:00  INFO 23412 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
-2026-05-29T12:24:34.454-03:00  INFO 23412 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 15.376 seconds (process running for 25.137)
-2026-05-29T12:36:30.751-03:00  INFO 12720 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 12720 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T12:36:30.774-03:00  INFO 12720 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T12:36:52.036-03:00  INFO 12720 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T12:36:52.038-03:00  INFO 12720 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T12:36:52.046-03:00  INFO 12720 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 5 ms
-2026-05-29T12:36:52.261-03:00  INFO 12720 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 24.354 seconds (process running for 31.963)
-2026-05-29T13:09:54.685-03:00  INFO 18368 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 18368 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T13:09:54.694-03:00  INFO 18368 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T13:10:16.463-03:00  INFO 18368 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T13:10:16.467-03:00  INFO 18368 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T13:10:16.476-03:00  INFO 18368 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 6 ms
-2026-05-29T13:10:16.902-03:00  INFO 18368 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 27.863 seconds (process running for 37.717)
-2026-05-29T13:11:19.925-03:00  INFO 23600 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 23600 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T13:11:19.931-03:00  INFO 23600 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T13:11:45.007-03:00  INFO 23600 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T13:11:45.008-03:00  INFO 23600 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T13:11:45.012-03:00  INFO 23600 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
-2026-05-29T13:11:45.461-03:00  INFO 23600 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 33.941 seconds (process running for 58.116)
-2026-05-29T13:11:54.890-03:00  INFO 23600 --- [locadora] [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.savioromario10.locadora.repository.CarroRepositoryTest]: CarroRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-2026-05-29T13:11:55.386-03:00  INFO 23600 --- [locadora] [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.savioromario10.locadora.Application for test class io.savioromario10.locadora.repository.CarroRepositoryTest
-2026-05-29T13:11:55.807-03:00  INFO 23600 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Starting CarroRepositoryTest using Java 21.0.10 with PID 23600 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T13:11:55.808-03:00  INFO 23600 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : The following 1 profile is active: "test"
-2026-05-29T13:11:57.283-03:00  INFO 23600 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
-2026-05-29T13:11:57.632-03:00  INFO 23600 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 283 ms. Found 1 JPA repository interface.
-2026-05-29T13:11:58.153-03:00  INFO 23600 --- [locadora] [main] beddedDataSourceBeanFactoryPostProcessor : Replacing 'dataSource' DataSource bean with embedded version
-2026-05-29T13:11:58.791-03:00  INFO 23600 --- [locadora] [main] o.s.j.d.e.EmbeddedDatabaseFactory        : Starting embedded database: url='jdbc:h2:mem:8c0dae95-05c2-4247-974c-da559d469bb0;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
-2026-05-29T13:11:59.660-03:00  INFO 23600 --- [locadora] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2026-05-29T13:12:00.387-03:00  INFO 23600 --- [locadora] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
-2026-05-29T13:12:00.611-03:00  INFO 23600 --- [locadora] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
-2026-05-29T13:12:01.718-03:00  INFO 23600 --- [locadora] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
-2026-05-29T13:12:06.733-03:00  INFO 23600 --- [locadora] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
-2026-05-29T13:12:06.937-03:00  INFO 23600 --- [locadora] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2026-05-29T13:12:09.394-03:00  INFO 23600 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Started CarroRepositoryTest in 13.987 seconds (process running for 82.05)
-2026-05-29T13:12:12.011-03:00  INFO 23600 --- [locadora] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2026-05-29T16:04:38.074-03:00  INFO 8456 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 8456 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T16:04:38.081-03:00  INFO 8456 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T16:05:03.191-03:00  INFO 8456 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T16:05:03.194-03:00  INFO 8456 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T16:05:03.254-03:00  INFO 8456 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 54 ms
-2026-05-29T16:05:03.821-03:00  INFO 8456 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 30.238 seconds (process running for 42.348)
-2026-05-29T16:07:17.771-03:00  INFO 5852 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 5852 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T16:07:17.783-03:00  INFO 5852 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T16:07:34.319-03:00  INFO 5852 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T16:07:34.333-03:00  INFO 5852 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T16:07:34.359-03:00  INFO 5852 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 23 ms
-2026-05-29T16:07:34.669-03:00  INFO 5852 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 20.148 seconds (process running for 23.841)
-2026-05-29T16:10:19.945-03:00  INFO 14684 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 14684 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T16:10:19.951-03:00  INFO 14684 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T16:10:28.521-03:00  INFO 14684 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T16:10:28.523-03:00  INFO 14684 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T16:10:28.534-03:00  INFO 14684 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 5 ms
-2026-05-29T16:10:28.781-03:00  INFO 14684 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 10.1 seconds (process running for 13.389)
-2026-05-29T16:12:13.589-03:00  INFO 18832 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 18832 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T16:12:13.591-03:00  INFO 18832 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T16:12:18.918-03:00  INFO 18832 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T16:12:18.920-03:00  INFO 18832 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T16:12:18.924-03:00  INFO 18832 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
-2026-05-29T16:12:19.131-03:00  INFO 18832 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 6.319 seconds (process running for 8.855)
-2026-05-29T16:14:14.701-03:00  INFO 11636 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 11636 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T16:14:14.707-03:00  INFO 11636 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T16:14:23.742-03:00  INFO 11636 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T16:14:23.746-03:00  INFO 11636 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T16:14:23.752-03:00  INFO 11636 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 5 ms
-2026-05-29T16:14:23.931-03:00  INFO 11636 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 10.471 seconds (process running for 13.132)
-2026-05-29T16:18:26.389-03:00  INFO 20944 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 20944 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
-2026-05-29T16:18:26.393-03:00  INFO 20944 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
-2026-05-29T16:18:34.402-03:00  INFO 20944 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
-2026-05-29T16:18:34.403-03:00  INFO 20944 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
-2026-05-29T16:18:34.408-03:00  INFO 20944 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
-2026-05-29T16:18:34.598-03:00  INFO 20944 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 9.971 seconds (process running for 13.481)
+2026-05-30T11:49:47.969-03:00  INFO 5464 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Starting CarroControllerTest using Java 21.0.10 with PID 5464 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
+2026-05-30T11:49:48.267-03:00  INFO 5464 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : No active profile set, falling back to 1 default profile: "default"
+2026-05-30T11:50:12.795-03:00  INFO 5464 --- [locadora] [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-05-30T11:50:12.890-03:00  INFO 5464 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-05-30T11:50:12.913-03:00  INFO 5464 --- [locadora] [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 20 ms
+2026-05-30T11:50:13.360-03:00  INFO 5464 --- [locadora] [main] i.s.l.controller.CarroControllerTest     : Started CarroControllerTest in 33.004 seconds (process running for 60.615)
+2026-05-30T11:50:22.448-03:00  INFO 5464 --- [locadora] [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [io.savioromario10.locadora.repository.CarroRepositoryTest]: CarroRepositoryTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-05-30T11:50:23.290-03:00  INFO 5464 --- [locadora] [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration io.savioromario10.locadora.Application for test class io.savioromario10.locadora.repository.CarroRepositoryTest
+2026-05-30T11:50:23.746-03:00  INFO 5464 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Starting CarroRepositoryTest using Java 21.0.10 with PID 5464 (started by sflorenc in C:\Estudos\Spring\Aula 4\locadora)
+2026-05-30T11:50:23.747-03:00  INFO 5464 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : The following 1 profile is active: "test"
+2026-05-30T11:50:24.991-03:00  INFO 5464 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2026-05-30T11:50:25.316-03:00  INFO 5464 --- [locadora] [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 280 ms. Found 1 JPA repository interface.
+2026-05-30T11:50:25.553-03:00  INFO 5464 --- [locadora] [main] beddedDataSourceBeanFactoryPostProcessor : Replacing 'dataSource' DataSource bean with embedded version
+2026-05-30T11:50:25.927-03:00  INFO 5464 --- [locadora] [main] o.s.j.d.e.EmbeddedDatabaseFactory        : Starting embedded database: url='jdbc:h2:mem:4b88f98e-dee6-4e94-91fe-fa695fd1d5f8;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=false', username='sa'
+2026-05-30T11:50:26.749-03:00  INFO 5464 --- [locadora] [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2026-05-30T11:50:27.570-03:00  INFO 5464 --- [locadora] [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.5.2.Final
+2026-05-30T11:50:27.879-03:00  INFO 5464 --- [locadora] [main] o.h.c.internal.RegionFactoryInitiator    : HHH000026: Second-level cache disabled
+2026-05-30T11:50:29.032-03:00  INFO 5464 --- [locadora] [main] o.s.o.j.p.SpringPersistenceUnitInfo      : No LoadTimeWeaver setup: ignoring JPA class transformer
+2026-05-30T11:50:35.138-03:00  INFO 5464 --- [locadora] [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2026-05-30T11:50:35.441-03:00  INFO 5464 --- [locadora] [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2026-05-30T11:50:38.158-03:00  INFO 5464 --- [locadora] [main] i.s.l.repository.CarroRepositoryTest     : Started CarroRepositoryTest in 14.742 seconds (process running for 85.408)
+2026-05-30T11:50:40.350-03:00  INFO 5464 --- [locadora] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'

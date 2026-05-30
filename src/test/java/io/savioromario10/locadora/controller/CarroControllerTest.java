@@ -138,4 +138,22 @@ public class CarroControllerTest {
         .content(json)
       ).andExpect(status().isNotFound());
   }
+
+  @Test
+  void deveDeletarCarro() throws Exception{
+    doNothing().when(service).deletar(any());
+
+    mvc.perform(
+      delete("/carros/1")
+    ).andExpect(status().isNoContent());
+  }
+
+  @Test
+  void deveDarErroDeletar() throws Exception{
+    doThrow(EntityNotFoundException.class).when(service).deletar(any());
+
+    mvc.perform(
+      delete("/carros/1")
+    ).andExpect(status().isNotFound());
+  }
 }
